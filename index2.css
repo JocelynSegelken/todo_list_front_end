@@ -1,0 +1,12 @@
+body {
+    background-color: bisque;
+}
+
+.pomodoro-estimate{
+ font-weight: bold;
+ color: #F44336 ;
+ background-color: #000000 ;
+ border-radius: 50px;
+ font-size: 14px;
+ padding: 5px 10px 5px 10px;
+}

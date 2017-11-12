@@ -2,6 +2,11 @@ body {
     background-color: bisque;
 }
 
+h1 {
+    color: white;
+    text-align: center;
+}
+
 .pomodoro-estimate{
  font-weight: bold;
  color: #F44336 ;
@@ -23,4 +28,11 @@ body {
  display: block;
  background-color: #03A9F4 ;
  margin-top: 10px;
+}
+
+li{ padding: 15px;
+}
+
+#add-new-todo-button:active{
+ box-shadow: 1px 1px 1px #90A4AE ;
 }

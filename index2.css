@@ -30,7 +30,10 @@ h1 {
  margin-top: 10px;
 }
 
-li{ padding: 15px;
+ul, li, a{
+ text-decoration: none;
+ list-style-type: none;
+ padding: 15px;
 }
 
 #add-new-todo-button:active{

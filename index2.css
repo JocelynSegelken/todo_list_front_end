@@ -6,6 +6,8 @@ body {
 h1 {
     color: black;
     text-align: center;
+    font-family: 'Pacifico', cursive;
+
 }
 
 .pomodoro-estimate{
@@ -36,8 +38,13 @@ ul, li, a{
  list-style-type: none;
  padding: 15px;
  font-size: 25px;
+ font-family: 'Indie Flower', cursive;
 }
 
 #add-new-todo-button:active{
  box-shadow: 1px 1px 1px #90A4AE ;
+}
+
+.completed-todo{
+  text-decoration: line-through;
 }

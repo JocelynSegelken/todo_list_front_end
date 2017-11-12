@@ -36,8 +36,9 @@ h1 {
 ul, li, a{
  text-decoration: none;
  list-style-type: none;
- padding: 15px;
- font-size: 25px;
+ padding: 10px;
+ font-size: 29px;
+ color:white;
  font-family: 'Indie Flower', cursive;
 }
 
